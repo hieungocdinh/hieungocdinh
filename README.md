@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, welcome to my profile! 👋
 
-<!--
-**hieungocdinh/hieungocdinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **HIEU**, a developer passionate about **[e.g., clean code, building awesome tools]**.
 
-Here are some ideas to get you started:
+### 👨‍💻 About me:
+* 🔭 I’m currently working on **[Project Name / Tech]**
+* 🌱 I’m currently learning **[Tech you are learning]**
+* 👯 I’m looking to collaborate on **[Field or type of project]**
+* ⚡ Fun fact: **[e.g., I fix bugs faster than I drink my morning coffee!]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+**Languages:** [e.g., JavaScript, Python, Java]  
+**Tools & Frameworks:** [e.g., React, Node.js, Docker, Git]
+
+### 📫 Reach out to me:
+* 📧 Email: hieungocdinhforwork@gmail.com
+* 💼 LinkedIn: [Your LinkedIn link]
+* 🌐 Portfolio: [Your website link]
+
+---
+⭐️ *Thanks for dropping by. May your code be bug-free today!* ⭐️
