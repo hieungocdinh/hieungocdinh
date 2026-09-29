@@ -13,7 +13,7 @@ I'm **HIEU**, a developer passionate about **[e.g., clean code, building awesome
 **Tools & Frameworks:** [e.g., React, Node.js, Docker, Git]
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hieungocdinh&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hieungocdinh&theme=radical)
 
 ### 📫 Reach out to me:
 * 📧 Email: hieungocdinhforwork@gmail.com
